@@ -7,19 +7,17 @@
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**)
-- Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx, Heroku
+- Session-Based authentication (via **flask_login**, Forms validation
 - **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
 - 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
 
+<br />
+
 > Links
 
-- [Flask Material Dashboard PRO (WrapPixel)](https://flask-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
-- [Boierplate Code Flask Dashboard](https://docs.appseed.us/boilerplate-code/flask-dashboard/) - Documentation
-- [Flask Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - Official product page
-- More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
-- [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
+- [Flask Material Dashboard PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - product page
+- [Flask Dashboard Material PRO - Demo](https://flask-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
+- [Flask Dashboard Material PRO - Docs](https://docs.appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro/) - product documentation
 
 <br />
 
