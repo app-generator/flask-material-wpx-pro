@@ -1,6 +1,6 @@
 # Change Log
 
-## [1.0.1] 2020-06-26
+## [1.0.1] 2021-04-29
 ### Improvements
 
 - Bump UI: [Jinja Wpx PRO](https://github.com/app-generator/jinja-material-wpx-pro/releases) v1.0.2
