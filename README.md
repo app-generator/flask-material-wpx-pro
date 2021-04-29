@@ -1,23 +1,21 @@
-# [Flask Material Dashboard PRO (WrapPixel)](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro)
+# Flask Material PRO (WrapPixel)
 
-> Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
+> Template [boilerplate code](https://appseed.us/boilerplate-code) used by [AppSeed](https://appseed.us) to generate simple admin dashboards coded in [Flask](https://palletsprojects.com/p/flask/) - Features:
 
-- UI Kit: **MaterialPro Dashboard** (Premium Version) by **WrapPixel**
-- Jinja2 Theme: [Jinja2 Material Dashboard PRO Wpx](https://github.com/app-generator/jinja2-material-dashboard-wpx-pro)
-- SQLite, PostgreSQL, SQLAlchemy ORM
-- Alembic (DB schema migrations)
+- UI Kit: **Material PRO Dashboard** (Lite Version) provided by **WrapPixel**
+- DBMS: SQLite, PostgreSQL (production) 
+- DB Tools: SQLAlchemy ORM, Flask-Migrate (schema migrations)
 - Modular design with **Blueprints**
-- Session-Based authentication (via **flask_login**, Forms validation
-- **Commercial License**: [Personal](https://github.com/app-generator/license-personal) / [Developer](https://github.com/app-generator/license-developer)
-- 24/7 Live Support via [Discord](https://discord.gg/fZC6hup).
+- Session-Based authentication (via **flask_login**), Forms validation
+- Deployment scripts: Docker, Gunicorn / Nginx, HEROKU
+- Support via **Github** (issues tracker) and [Discord](https://discord.gg/fZC6hup).
 
 <br />
 
 > Links
 
-- [Flask Material Dashboard PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - product page
-- [Flask Dashboard Material PRO - Demo](https://flask-material-dashboard-wpx-pro.appseed.us/) - LIVE Demo
-- [Flask Dashboard Material PRO - Docs](https://docs.appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro/) - product documentation
+- [Flask Material PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - product page
+- [Flask Material PRO Wpx](https://flask-material-wpx-pro.appseed-srv1.com) - LIVE Demo
 
 <br />
 
@@ -29,8 +27,8 @@
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/priv-flask-material-dashboard-wpx-pro.git
-$ cd priv-flask-material-dashboard-wpx-pro
+$ git clone https://github.com/app-generator/priv-flask-material-wpx-pro.git
+$ cd priv-flask-material-wpx-pro
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -196,8 +194,8 @@ The application can be easily executed in a docker container. The steps:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/priv-flask-material-dashboard-wpx-pro.git
-$ cd priv-flask-material-dashboard-wpx-pro
+$ git clone https://github.com/app-generator/priv-flask-material-wpx-pro.git
+$ cd priv-flask-material-wpx-pro
 ```
 
 > Start the app in Docker
@@ -222,8 +220,8 @@ Steps to deploy on **Heroku**
 
 ```bash
 $ # Clone the source code:
-$ git clone https://github.com/app-generator/flask-material-dashboard-wpx-pro.git
-$ cd flask-material-dashboard-wpx-pro
+$ git clone https://github.com/app-generator/priv-flask-material-wpx-pro.git
+$ cd priv-flask-material-wpx-pro
 $
 $ # Check Heroku CLI is installed
 $ heroku -v
