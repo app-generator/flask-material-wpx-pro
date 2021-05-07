@@ -16,7 +16,7 @@
 
 - [Flask Material PRO Wpx](https://appseed.us/admin-dashboards/flask-material-dashboard-wpx-pro) - product page
 - [Flask Material PRO Wpx](https://flask-material-wpx-pro.appseed-srv1.com) - LIVE Demo
-- [Flask Material PRO Wpx](https://docs.appseed.us/products/flask-dashboards/materialpro) - product documentation
+- [Flask Material PRO Wpx](https://docs.appseed.us/products/flask-dashboards/materialpro-wpx) - product documentation
 
 <br />
 
